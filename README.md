@@ -1,2 +1,9 @@
 # India-NO2-data
-Corrected hourly level NO and NO2 data around midday (12pm-3pm IST) for monitoring sites in Delhi and Kanpur
+
+README -- describes contents of karnvoh/India-NO2-data repository
+7 April 2020
+Karn Vohra
+karnvohra@gmail.com
+
+Overview: 
+============================================================================
