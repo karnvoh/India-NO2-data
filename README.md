@@ -23,4 +23,4 @@ Vohra_etal_ACP_2020_India_corrected_surface_NO2_ugm3_2006-2018_6April2020.nc
 
 ## References: 
 	
-Vohra, K., Marais E. A., Suckra, S., Kramer, L., Bloss, W. J., Sahu, R., Gaur, A., Tripathi, S. N., Van Damme, M., Clarisse, L., Coheur, P. F., Long-term trends in air quality in major cities in the UK and India: A view from space, submitted to Atmos. Chem. Phys.,2020.
+Vohra, K., Marais E. A., Suckra, S., Kramer, L., Bloss, W. J., Sahu, R., Gaur, A., Tripathi, S. N., Van Damme, M., Clarisse, L., Coheur, P. F., Long-term trends in air quality in major cities in the UK and India: A view from space, submitted to Atmos. Chem. Phys., 2020.
