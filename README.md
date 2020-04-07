@@ -1,6 +1,6 @@
 # India-NO2-data
 
-README -- describes contents of karnvoh/India-NO2-data directory
+README -- describes contents of [karnvoh/India-NO2-data](https://github.com/karnvoh/India-NO2-data) directory
 
 7 April 2020
 
