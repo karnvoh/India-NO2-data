@@ -16,7 +16,7 @@
 
 	Vohra_etal_ACP_2020_India_corrected_surface_NO2_ugm3_2006-2018_6April2020.nc
   	-- Corrected hourly surface NO2 data (in ug/m3) around midday (12h00-15h00 local time)
-  	-- Data is for monitoring stations operating in Delhi and Kanpur between 2006 and 2018
+  	-- Data is for long-term monitoring stations operating in Delhi and Kanpur between 2006 and 2018
   	-- Data includes details about the monitoring station (name, geolocation coordinates and the organisation or local agency maintaining the station)
 
 	References: 
